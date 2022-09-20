@@ -1,6 +1,4 @@
-# Dog-Vision
-Neural network capable of detecting a dog's breed based on it's picture. Currently trained on 120 different breeds.
+Exercício de uma rede neural capaz de detectar a raça de um cão com base em sua imagem, treinado em 120 raças diferentes.
 
-Part of the Zero to Mastery Machine Learning and Data Science Bootcamp course on Udemy.
+Este exercício é parte de um bootcamp da Udemy.
 
-Jonas L. Neri
